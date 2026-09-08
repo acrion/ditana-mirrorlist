@@ -5,7 +5,7 @@ pkgbase = ditana-mirrorlist
 	url = https://ditana.org
 	arch = any
 	license = AGPL-3.0-or-later
-	source = file:///media/stefan/data/Documents/git/my-projects/acrion/ditana/packages/001-ditana-mirrorlist/ditana-mirrorlist
+	source = ditana-mirrorlist
 	sha256sums = SKIP
 
 pkgname = ditana-mirrorlist

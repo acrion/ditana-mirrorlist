@@ -10,7 +10,7 @@ license=('AGPL-3.0-or-later')
 conflicts=()
 depends=()
 makedepends=()
-source=("file://${PWD}/ditana-mirrorlist")
+source=(ditana-mirrorlist)
 sha256sums=('SKIP')
 
 package() {
